@@ -3,7 +3,7 @@ package com.example.yougourta.smartrecrute;
 /**
  * Created by Yougourta on 22/11/2018.
  */
-
+//fefefef
 public class Offer {
     private String company;
     private String type;
